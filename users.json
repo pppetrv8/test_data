@@ -3,30 +3,30 @@
     "id": "f3057de8-bbd6-545e-92de-4ccc49e4975b",
     "name": "User 1",
     "avatarUrl": "//www.gravatar.com/avatar/bbe868edee029cb812017a2441aee26e",
-    "email": "user1@gmail.com",
+    "email": "user1@gmail.com"
   },
   {
     "id": "f196dfd3-a386-5335-aad8-837174774413",
     "name": "User 2",
     "avatarUrl": "//www.gravatar.com/avatar/bbe868edee029cb812017a2441aee26e",
-    "email": "user2@gmail.com",
+    "email": "user2@gmail.com"
   },
   {
     "id": "c189d917-d59d-55ba-99ff-dee173915f8f",
     "name": "User 3",
     "avatarUrl": "//www.gravatar.com/avatar/bbe868edee029cb812017a2441aee26e",
-    "email": "user3@gmail.com",
+    "email": "user3@gmail.com"
   },
   {
     "id": "4db90f2f-534b-56e0-bd28-ede30b943dd3",
     "name": "User 4",
     "avatarUrl": "//www.gravatar.com/avatar/bbe868edee029cb812017a2441aee26e",
-    "email": "user4@gmail.com",
+    "email": "user4@gmail.com"
   },
   {
     "id": "dc6ff3df-6991-5b2d-b121-4e696bd084ec",
     "name": "User 5",
     "avatarUrl": "//www.gravatar.com/avatar/bbe868edee029cb812017a2441aee26e",
-    "email": "user5@gmail.com",
+    "email": "user5@gmail.com"
   }
 ]
